@@ -4,8 +4,16 @@
   height: 500px;
 }
 .logo{
-  margin-top: auto;
+  margin-top: 100px;
+  padding-left: 600px;
 }
 h1{
   text-align: center;
+}
+.first p{
+  text-align: center;
+}
+.mouse{
+  margin-top: 100px;
+  padding-left: 600px;
 }
