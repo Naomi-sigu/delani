@@ -1,4 +1,11 @@
-.top{
+.first{
   background-image: url("images/back/first.jpg");
-  background-size: contain;
+  background-size: cover;
+  height: 500px;
+}
+.logo{
+  margin-top: auto;
+}
+h1{
+  text-align: center;
 }
