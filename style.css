@@ -28,6 +28,9 @@ h1{
 .second{
   background-image: url("images/back/second.jpg");
 }
+.second h1{
+  color: white;
+}
 .second p{
   text-align: center;
   color: white;
