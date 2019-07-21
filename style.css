@@ -15,6 +15,9 @@ body{
 h1{
   text-align: center;
 }
+h3{
+  text-align: center;
+}
 .first p{
   text-align: center;
 }
@@ -28,7 +31,7 @@ h1{
 .second{
   background-image: url("images/back/second.jpg");
 }
-.second h1{
+.second h3{
   color: white;
 }
 .second p{
@@ -37,5 +40,7 @@ h1{
 }
 .port{
   image-orientation: 60px;
-  
+}
+.contact{
+  background-image: url("images/back/third.jpg");
 }
