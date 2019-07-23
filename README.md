@@ -4,11 +4,11 @@
 #### [Naomi-sigu](https://github.com/Naomi-sigu)
 
 ## Description
-This is a Ghanian calender that is able to pick the date of birth of the user and name the user based on the day of the week in which they were born.
+This is a website of a website recreated.help clients communicate with the developers working on their project and understand it more.
 
 
 ## Screenshot
-<img src="https://github.com/Naomi-sigu/calender-akan/blob/master/screenshot%20akan.png" width="1000">
+<img src="https://github.com/Naomi-sigu/delani/blob/master/delanishoot.png" width="1000">
 
 
 ## Setup/Installation Requirements
@@ -26,6 +26,7 @@ They are no bugs that have been detected yet.
 > 2.Css
 > 3.JavaScript
 > 3.Markdown
+> 4.Jquery
 
 ### License
  MIT License
