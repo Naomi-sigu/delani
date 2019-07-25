@@ -17,7 +17,6 @@ $("#product img").toggle();
 });
 
 
-
 });
 $("#contactus").submit(function (e) {
         var name = document.getElementById("name").value;
