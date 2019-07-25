@@ -1,14 +1,14 @@
 $('#textarea').attr('rows', 20);
 
 $(document).ready(function(){
-  $("#imagetoggle1").click(function(){
-  $(".pp2, #imagetoggle1").toggle();
-
+  $("#design").click(function(){
+  $("#design p").toggle();
+  $("#design img").toggle();
 });
 
-$("#development img,#development p").click(function(){
-$("#development img,#development img").toggle();
-
+$("#development").click(function(){
+$("#development p").toggle();
+$("#development img").toggle();
 });
 
 $("#product").click(function(){
@@ -19,7 +19,7 @@ $("#product img").toggle();
 
 
 });
-$("#form").submit(function (e) {
+$("#contactus").submit(function (e) {
         var name = document.getElementById("name").value;
         var email = document.getElementById("email").value;
         if (name == "" || email == "") {

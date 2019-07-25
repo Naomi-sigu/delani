@@ -8,6 +8,7 @@ body{
   background-image: url("images/back/first.jpg");
   background-size: cover;
   height: 500px;
+  color: white;
 }
 .logo{
   margin-top: 100px;
@@ -49,9 +50,23 @@ h3{
   text-align: center;
 }
 .icons{
-  padding-left: 400px;
+  padding-left: 100px;
 }
 .footer{
   text-align: center;
-  padding-right: 350px;
+  padding-right: 100px;
+}
+.yah:hover{
+  transform: scale(1.2);
+  transition: all 0.3s ease;
+  opacity: 3;
+}
+.p1{
+  display: none;
+}
+.p2{
+  display: none;
+}
+.p3{
+  display: none;
 }
