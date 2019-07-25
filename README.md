@@ -4,7 +4,7 @@
 #### [Naomi-sigu](https://github.com/Naomi-sigu)
 
 ## Description
-This is a website of a website recreated.help clients communicate with the developers working on their project and understand it more.
+This is a website of a website recreated to help clients communicate with the developers working on their project and understand it more.
 
 
 ## Screenshot
